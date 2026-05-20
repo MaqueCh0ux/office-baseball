@@ -48,3 +48,13 @@ Stolen bases, defense, errors, and other secondary baseball events are not curre
 ## Future Plans
 
 - Hall of Fame / legacy logic
+## Screenshots
+
+### Game Sim
+![Game Sim](screenshots/GameSim.png)
+
+### Box Score
+![Box Score](screenshots/Box_Score.png)
+
+### Batter Stats
+![Batter Stats](screenshots/Stat_Screen.png)
